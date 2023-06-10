@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=✨Hello&#160;Sebin's&#160;github✨&fontSize=70&fontColor=703ee5)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=✨Hello&#160;Sebin's&#160;Github✨&fontSize=70&fontColor=703ee5)
 ### 👋 My Tech 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/hwangsebin-2/TODO-List)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/Joowon0220/TODO-List)   
