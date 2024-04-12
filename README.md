@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=✨Hello&#160;Sebin's&#160;Github✨&fontSize=70&fontColor=703ee5)
+
 😄노션으로 오세요!😄
 Notion : https://www.notion.so/Main-20b9d6c74ea744ee8b7b23951f4dbc4a?pvs=4
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=✨Hello&#160;Sebin's&#160;Github✨&fontSize=70&fontColor=703ee5)
 ### 👋 My Tech 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](github.com/hwangsebin-2/TODO-List)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/Joowon0220/TODO-List)   
