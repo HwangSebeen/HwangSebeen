@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄노션으로 오세요!😄
+Notion : https://www.notion.so/Main-20b9d6c74ea744ee8b7b23951f4dbc4a?pvs=4
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=✨Hello&#160;Sebin's&#160;Github✨&fontSize=70&fontColor=703ee5)
 ### 👋 My Tech 
